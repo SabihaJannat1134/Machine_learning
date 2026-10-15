@@ -1,0 +1,206 @@
+age,sex,chest_pain_type,resting_blood_pressure,cholestoral,fasting_blood_sugar,rest_ecg,Max_heart_rate,exercise_induced_angina,oldpeak,slope,thalassemia,BMI,Smoking,Exercise_Level,Heart_Risk_%,Risk_Level
+62,Female,Typical angina,124,209,Lower than 120 mg/ml,ST-T wave abnormality,163,No,0,Downsloping,Fixed Defect,20,1,3,92.46100378,High Risk
+53,Female,Non-anginal pain,128,216,Lower than 120 mg/ml,Normal,115,No,0,Downsloping,No,22,0,1,82.80033028,High Risk
+55,Male,Typical angina,160,289,Lower than 120 mg/ml,Normal,145,Yes,0.8,Flat,Reversable Defect,30,0,3,2.868630451,Low Risk
+50,Female,Atypical angina,120,244,Lower than 120 mg/ml,ST-T wave abnormality,162,No,1.1,Downsloping,Fixed Defect,19,1,1,96.21929264,High Risk
+48,Male,Typical angina,130,256,Greater than 120 mg/ml,Normal,150,Yes,0,Downsloping,Reversable Defect,33,0,3,11.19713287,Low Risk
+74,Female,Atypical angina,120,269,Lower than 120 mg/ml,Normal,121,Yes,0.2,Downsloping,Fixed Defect,30,0,1,75.57428914,High Risk
+64,Male,Typical angina,120,246,Lower than 120 mg/ml,Normal,96,Yes,2.2,Upsloping,Fixed Defect,20,1,1,2.883586327,Low Risk
+67,Male,Typical angina,120,229,Lower than 120 mg/ml,Normal,129,Yes,2.6,Flat,Reversable Defect,29,1,1,1.224043256,Low Risk
+48,Male,Non-anginal pain,124,255,Greater than 120 mg/ml,ST-T wave abnormality,175,No,0,Downsloping,Fixed Defect,22,1,1,95.31354652,High Risk
+70,Male,Typical angina,145,174,Lower than 120 mg/ml,ST-T wave abnormality,125,Yes,2.6,Upsloping,Reversable Defect,31,1,1,1.635459241,Low Risk
+60,Female,Non-anginal pain,102,318,Lower than 120 mg/ml,ST-T wave abnormality,160,No,0,Downsloping,Fixed Defect,29,1,3,96.90809996,High Risk
+59,Male,Typical angina,170,326,Lower than 120 mg/ml,Normal,140,Yes,3.4,Upsloping,Reversable Defect,28,1,2,0.251642016,Low Risk
+42,Male,Atypical angina,120,295,Lower than 120 mg/ml,ST-T wave abnormality,162,No,0,Downsloping,Fixed Defect,28,1,2,89.35657422,High Risk
+57,Male,Non-anginal pain,150,126,Greater than 120 mg/ml,ST-T wave abnormality,173,No,0.2,Downsloping,Reversable Defect,24,1,3,82.58501698,High Risk
+56,Male,Typical angina,132,184,Lower than 120 mg/ml,Normal,105,Yes,2.1,Flat,Normal,18,0,1,6.704303149,Low Risk
+57,Female,Atypical angina,130,236,Lower than 120 mg/ml,Normal,174,No,0,Flat,Fixed Defect,26,1,3,97.21663304,High Risk
+61,Male,Typical angina,120,260,Lower than 120 mg/ml,ST-T wave abnormality,140,Yes,3.6,Flat,Reversable Defect,22,0,2,1.119748394,Low Risk
+41,Male,Atypical angina,120,157,Lower than 120 mg/ml,ST-T wave abnormality,182,No,0,Downsloping,Fixed Defect,19,1,3,97.628241,High Risk
+52,Male,Non-anginal pain,172,199,Greater than 120 mg/ml,ST-T wave abnormality,162,No,0.5,Downsloping,Reversable Defect,25,1,3,56.83368001,Medium Risk
+54,Male,Typical angina,110,239,Lower than 120 mg/ml,ST-T wave abnormality,126,Yes,2.8,Flat,Reversable Defect,20,1,3,1.631508088,Low Risk
+57,Female,Typical angina,128,303,Lower than 120 mg/ml,Normal,159,No,0,Downsloping,Fixed Defect,31,0,3,80.1238117,High Risk
+60,Male,Typical angina,130,253,Lower than 120 mg/ml,ST-T wave abnormality,144,Yes,1.4,Downsloping,Reversable Defect,28,0,2,5.141255004,Low Risk
+58,Male,Atypical angina,120,284,Lower than 120 mg/ml,Normal,160,No,1.8,Flat,Fixed Defect,33,1,2,55.20163174,Medium Risk
+46,Male,Typical angina,140,311,Lower than 120 mg/ml,ST-T wave abnormality,120,Yes,1.8,Flat,Reversable Defect,21,0,1,1.686663131,Low Risk
+57,Female,Typical angina,128,303,Lower than 120 mg/ml,Normal,159,No,0,Downsloping,Fixed Defect,30,0,3,80.2097471,High Risk
+38,Male,Non-anginal pain,138,175,Lower than 120 mg/ml,ST-T wave abnormality,173,No,0,Downsloping,Fixed Defect,23,1,2,96.96039878,High Risk
+48,Female,Non-anginal pain,130,275,Lower than 120 mg/ml,ST-T wave abnormality,139,No,0.2,Downsloping,Fixed Defect,25,0,3,95.3844931,High Risk
+52,Male,Non-anginal pain,138,223,Lower than 120 mg/ml,ST-T wave abnormality,169,No,0,Downsloping,Fixed Defect,23,0,3,94.03627771,High Risk
+63,Female,Typical angina,150,407,Lower than 120 mg/ml,Normal,154,No,4,Flat,Reversable Defect,19,1,1,1.546337227,Low Risk
+61,Female,Typical angina,130,330,Lower than 120 mg/ml,Normal,169,No,0,Downsloping,Fixed Defect,23,1,3,78.57104777,High Risk
+59,Male,Non-anginal pain,126,218,Greater than 120 mg/ml,ST-T wave abnormality,134,No,2.2,Flat,Normal,25,0,1,61.11461581,Medium Risk
+51,Female,Non-anginal pain,140,308,Lower than 120 mg/ml,Normal,142,No,1.5,Downsloping,Fixed Defect,20,1,2,80.15768425,High Risk
+48,Male,Atypical angina,110,229,Lower than 120 mg/ml,ST-T wave abnormality,168,No,1,Upsloping,Reversable Defect,26,1,2,64.20927231,Medium Risk
+53,Female,Non-anginal pain,128,216,Lower than 120 mg/ml,Normal,115,No,0,Downsloping,No,22,1,3,78.00793726,High Risk
+42,Male,Typical angina,140,226,Lower than 120 mg/ml,ST-T wave abnormality,178,No,0,Downsloping,Fixed Defect,18,0,2,84.23754828,High Risk
+56,Male,Atypical angina,130,221,Lower than 120 mg/ml,Normal,163,No,0,Downsloping,Reversable Defect,25,0,2,63.50071691,Medium Risk
+57,Female,Typical angina,128,303,Lower than 120 mg/ml,Normal,159,No,0,Downsloping,Fixed Defect,29,0,2,81.74849349,High Risk
+66,Male,Typical angina,120,302,Lower than 120 mg/ml,Normal,151,No,0.4,Flat,Fixed Defect,33,1,1,35.75969155,Medium Risk
+71,Female,Typical angina,112,149,Lower than 120 mg/ml,ST-T wave abnormality,125,No,1.6,Flat,Fixed Defect,26,0,2,72.09636101,High Risk
+44,Male,Atypical angina,120,220,Lower than 120 mg/ml,ST-T wave abnormality,170,No,0,Downsloping,Fixed Defect,30,0,1,95.65283119,High Risk
+67,Male,Typical angina,120,229,Lower than 120 mg/ml,Normal,129,Yes,2.6,Flat,Reversable Defect,32,0,3,1.121024148,Low Risk
+50,Male,Typical angina,144,200,Lower than 120 mg/ml,Normal,126,Yes,0.9,Flat,Reversable Defect,33,0,1,4.846033443,Low Risk
+65,Male,Typical angina,120,177,Lower than 120 mg/ml,ST-T wave abnormality,140,No,0.4,Downsloping,Reversable Defect,20,1,2,24.57490175,Low Risk
+58,Male,Atypical angina,120,284,Lower than 120 mg/ml,Normal,160,No,1.8,Flat,Fixed Defect,27,0,1,61.11439968,Medium Risk
+58,Female,Typical angina,170,225,Greater than 120 mg/ml,Normal,146,Yes,2.8,Flat,Normal,25,1,3,15.87080192,Low Risk
+55,Male,Typical angina,140,217,Lower than 120 mg/ml,ST-T wave abnormality,111,Yes,5.6,Upsloping,Reversable Defect,33,1,2,0.122761581,Low Risk
+49,Male,Non-anginal pain,120,188,Lower than 120 mg/ml,ST-T wave abnormality,139,No,2,Flat,Reversable Defect,18,1,1,40.47985511,Medium Risk
+58,Male,Typical angina,100,234,Lower than 120 mg/ml,ST-T wave abnormality,156,No,0.1,Downsloping,Reversable Defect,19,0,1,42.62174756,Medium Risk
+40,Male,Typical angina,152,223,Lower than 120 mg/ml,ST-T wave abnormality,181,No,0,Downsloping,Reversable Defect,27,0,1,53.96177807,Medium Risk
+61,Male,Non-anginal pain,150,243,Greater than 120 mg/ml,ST-T wave abnormality,137,Yes,1,Flat,Fixed Defect,28,1,1,51.99645292,Medium Risk
+43,Male,Non-anginal pain,130,315,Lower than 120 mg/ml,ST-T wave abnormality,162,No,1.9,Downsloping,Fixed Defect,31,1,3,65.17151799,Medium Risk
+58,Male,Typical angina,128,259,Lower than 120 mg/ml,Normal,130,Yes,3,Flat,Reversable Defect,27,1,3,0.671687557,Low Risk
+57,Male,Atypical angina,154,232,Lower than 120 mg/ml,Normal,164,No,0,Downsloping,Fixed Defect,32,0,2,84.29522922,High Risk
+53,Male,Typical angina,140,203,Greater than 120 mg/ml,Normal,155,Yes,3.1,Upsloping,Reversable Defect,34,0,1,2.331191125,Low Risk
+48,Female,Non-anginal pain,130,275,Lower than 120 mg/ml,ST-T wave abnormality,139,No,0.2,Downsloping,Fixed Defect,33,0,3,95.19035518,High Risk
+71,Female,Typical angina,112,149,Lower than 120 mg/ml,ST-T wave abnormality,125,No,1.6,Flat,Fixed Defect,19,0,2,72.85108863,High Risk
+63,Female,Typical angina,108,269,Lower than 120 mg/ml,ST-T wave abnormality,169,Yes,1.8,Flat,Fixed Defect,34,0,3,62.93966206,Medium Risk
+60,Male,Typical angina,130,206,Lower than 120 mg/ml,Normal,132,Yes,2.4,Flat,Reversable Defect,29,1,3,1.498513808,Low Risk
+59,Male,Asymptomatic,134,204,Lower than 120 mg/ml,ST-T wave abnormality,162,No,0.8,Downsloping,Fixed Defect,33,1,3,92.00282244,High Risk
+58,Male,Non-anginal pain,140,211,Greater than 120 mg/ml,Normal,165,No,0,Downsloping,Fixed Defect,33,1,1,90.46542161,High Risk
+37,Male,Non-anginal pain,130,250,Lower than 120 mg/ml,ST-T wave abnormality,187,No,3.5,Upsloping,Fixed Defect,31,0,1,75.30556656,High Risk
+58,Male,Atypical angina,125,220,Lower than 120 mg/ml,ST-T wave abnormality,144,No,0.4,Flat,Reversable Defect,20,1,2,51.51792308,Medium Risk
+63,Female,Typical angina,150,407,Lower than 120 mg/ml,Normal,154,No,4,Flat,Reversable Defect,24,1,2,1.371763208,Low Risk
+61,Male,Non-anginal pain,150,243,Greater than 120 mg/ml,ST-T wave abnormality,137,Yes,1,Flat,Fixed Defect,34,0,2,51.73096128,Medium Risk
+62,Male,Typical angina,120,267,Lower than 120 mg/ml,ST-T wave abnormality,99,Yes,1.8,Flat,Reversable Defect,25,0,3,1.043123113,Low Risk
+44,Male,Typical angina,120,169,Lower than 120 mg/ml,ST-T wave abnormality,144,Yes,2.8,Upsloping,Normal,26,1,2,19.38467909,Low Risk
+39,Female,Non-anginal pain,94,199,Lower than 120 mg/ml,ST-T wave abnormality,179,No,0,Downsloping,Fixed Defect,29,0,1,99.65607465,High Risk
+56,Male,Non-anginal pain,130,256,Greater than 120 mg/ml,Normal,142,Yes,0.6,Flat,Normal,21,1,1,59.56718653,Medium Risk
+55,Male,Typical angina,140,217,Lower than 120 mg/ml,ST-T wave abnormality,111,Yes,5.6,Upsloping,Reversable Defect,25,1,3,0.116629827,Low Risk
+63,Female,Non-anginal pain,135,252,Lower than 120 mg/ml,Normal,172,No,0,Downsloping,Fixed Defect,20,0,3,97.33153324,High Risk
+41,Male,Typical angina,110,172,Lower than 120 mg/ml,Normal,158,No,0,Downsloping,Reversable Defect,25,1,2,46.39608047,Medium Risk
+63,Female,Typical angina,150,407,Lower than 120 mg/ml,Normal,154,No,4,Flat,Reversable Defect,32,1,2,1.314476723,Low Risk
+61,Male,Typical angina,148,203,Lower than 120 mg/ml,ST-T wave abnormality,161,No,0,Downsloping,Reversable Defect,25,1,1,33.74973971,Medium Risk
+56,Male,Atypical angina,120,236,Lower than 120 mg/ml,ST-T wave abnormality,178,No,0.8,Downsloping,Fixed Defect,31,0,2,91.05889005,High Risk
+46,Female,Typical angina,138,243,Lower than 120 mg/ml,Normal,152,Yes,0,Flat,Fixed Defect,20,1,3,73.280964,High Risk
+54,Male,Non-anginal pain,120,258,Lower than 120 mg/ml,Normal,147,No,0.4,Flat,Reversable Defect,23,0,3,46.63522015,Medium Risk
+64,Male,Typical angina,120,246,Lower than 120 mg/ml,Normal,96,Yes,2.2,Upsloping,Fixed Defect,21,1,3,2.386100934,Low Risk
+59,Male,Asymptomatic,160,273,Lower than 120 mg/ml,Normal,125,No,0,Downsloping,Fixed Defect,26,1,2,70.18717927,High Risk
+57,Male,Atypical angina,124,261,Lower than 120 mg/ml,ST-T wave abnormality,141,No,0.3,Downsloping,Reversable Defect,27,1,3,40.88276234,Medium Risk
+49,Male,Atypical angina,130,266,Lower than 120 mg/ml,ST-T wave abnormality,171,No,0.6,Downsloping,Fixed Defect,20,1,1,88.75547555,High Risk
+52,Male,Typical angina,125,212,Lower than 120 mg/ml,ST-T wave abnormality,168,No,1,Downsloping,Reversable Defect,31,1,3,26.64866484,Low Risk
+59,Male,Typical angina,140,177,Lower than 120 mg/ml,ST-T wave abnormality,162,Yes,0,Downsloping,Reversable Defect,25,0,3,26.20613474,Low Risk
+55,Female,Typical angina,180,327,Lower than 120 mg/ml,Left ventricular hypertrophy,117,Yes,3.4,Flat,Fixed Defect,19,0,3,2.588335924,Low Risk
+57,Male,Typical angina,110,335,Lower than 120 mg/ml,ST-T wave abnormality,143,Yes,3,Flat,Reversable Defect,19,0,2,1.296714371,Low Risk
+70,Male,Atypical angina,156,245,Lower than 120 mg/ml,Normal,143,No,0,Downsloping,Fixed Defect,20,1,1,68.52901431,Medium Risk
+63,Male,Typical angina,130,330,Greater than 120 mg/ml,Normal,132,Yes,1.8,Downsloping,Reversable Defect,22,0,1,1.186204323,Low Risk
+60,Female,Non-anginal pain,102,318,Lower than 120 mg/ml,ST-T wave abnormality,160,No,0,Downsloping,Fixed Defect,26,1,1,97.46739792,High Risk
+64,Male,Typical angina,145,212,Lower than 120 mg/ml,Normal,132,No,2,Flat,Normal,28,0,3,12.82807715,Low Risk
+52,Male,Typical angina,125,212,Lower than 120 mg/ml,ST-T wave abnormality,168,No,1,Downsloping,Reversable Defect,19,1,3,27.93550022,Low Risk
+61,Female,Typical angina,130,330,Lower than 120 mg/ml,Normal,169,No,0,Downsloping,Fixed Defect,27,1,2,79.77321833,High Risk
+57,Male,Non-anginal pain,128,229,Lower than 120 mg/ml,Normal,150,No,0.4,Flat,Reversable Defect,34,0,2,51.24243927,Medium Risk
+54,Male,Typical angina,110,239,Lower than 120 mg/ml,ST-T wave abnormality,126,Yes,2.8,Flat,Reversable Defect,18,1,1,1.985339273,Low Risk
+40,Male,Asymptomatic,140,199,Lower than 120 mg/ml,ST-T wave abnormality,178,Yes,1.4,Downsloping,Reversable Defect,18,0,3,68.13824845,Medium Risk
+49,Female,Typical angina,130,269,Lower than 120 mg/ml,ST-T wave abnormality,163,No,0,Downsloping,Fixed Defect,24,0,2,91.59226891,High Risk
+46,Male,Atypical angina,101,197,Greater than 120 mg/ml,ST-T wave abnormality,156,No,0,Downsloping,Reversable Defect,22,1,1,81.18315944,High Risk
+53,Male,Non-anginal pain,130,197,Greater than 120 mg/ml,Normal,152,No,1.2,Upsloping,Fixed Defect,26,0,3,79.11990833,High Risk
+56,Male,Non-anginal pain,130,256,Greater than 120 mg/ml,Normal,142,Yes,0.6,Flat,Normal,23,1,2,57.00644405,Medium Risk
+42,Male,Typical angina,136,315,Lower than 120 mg/ml,ST-T wave abnormality,125,Yes,1.8,Flat,Normal,18,0,3,7.71332255,Low Risk
+56,Female,Typical angina,200,288,Greater than 120 mg/ml,Normal,133,Yes,4,Upsloping,Reversable Defect,18,1,2,0.603768375,Low Risk
+58,Male,Typical angina,146,218,Lower than 120 mg/ml,ST-T wave abnormality,105,No,2,Flat,Reversable Defect,31,1,2,2.153048287,Low Risk
+67,Female,Non-anginal pain,115,564,Lower than 120 mg/ml,Normal,160,No,1.6,Flat,Reversable Defect,24,0,2,17.6810476,Low Risk
+62,Male,Atypical angina,120,281,Lower than 120 mg/ml,Normal,103,No,1.4,Flat,Reversable Defect,24,0,2,7.26861777,Low Risk
+65,Male,Asymptomatic,138,282,Greater than 120 mg/ml,Normal,174,No,1.4,Flat,Fixed Defect,32,1,2,79.09318478,High Risk
+52,Male,Asymptomatic,152,298,Greater than 120 mg/ml,ST-T wave abnormality,178,No,1.2,Flat,Reversable Defect,18,1,3,57.78232418,Medium Risk
+35,Male,Typical angina,120,198,Lower than 120 mg/ml,ST-T wave abnormality,130,Yes,1.6,Flat,Reversable Defect,20,0,1,8.945072319,Low Risk
+68,Female,Non-anginal pain,120,211,Lower than 120 mg/ml,Normal,115,No,1.5,Flat,Fixed Defect,30,1,1,79.88777182,High Risk
+60,Male,Typical angina,130,206,Lower than 120 mg/ml,Normal,132,Yes,2.4,Flat,Reversable Defect,19,0,1,2.132882514,Low Risk
+64,Male,Asymptomatic,170,227,Lower than 120 mg/ml,Normal,155,No,0.6,Flat,Reversable Defect,27,1,3,44.1025106,Medium Risk
+46,Male,Typical angina,120,249,Lower than 120 mg/ml,Normal,144,No,0.8,Downsloping,Reversable Defect,31,0,3,12.81517444,Low Risk
+51,Female,Non-anginal pain,130,256,Lower than 120 mg/ml,Normal,149,No,0.5,Downsloping,Fixed Defect,19,1,2,94.41753829,High Risk
+59,Male,Asymptomatic,134,204,Lower than 120 mg/ml,ST-T wave abnormality,162,No,0.8,Downsloping,Fixed Defect,31,1,1,93.3554612,High Risk
+51,Female,Non-anginal pain,130,256,Lower than 120 mg/ml,Normal,149,No,0.5,Downsloping,Fixed Defect,22,0,3,94.44687739,High Risk
+43,Female,Non-anginal pain,122,213,Lower than 120 mg/ml,ST-T wave abnormality,165,No,0.2,Flat,Fixed Defect,31,0,1,98.98769077,High Risk
+62,Female,Typical angina,140,268,Lower than 120 mg/ml,Normal,160,No,3.6,Upsloping,Fixed Defect,20,0,3,26.46818547,Low Risk
+59,Male,Non-anginal pain,150,212,Greater than 120 mg/ml,ST-T wave abnormality,157,No,1.6,Downsloping,Fixed Defect,30,1,1,75.71426833,High Risk
+58,Female,Asymptomatic,150,283,Greater than 120 mg/ml,Normal,162,No,1,Downsloping,Fixed Defect,31,1,1,94.38796212,High Risk
+52,Male,Typical angina,128,204,Greater than 120 mg/ml,ST-T wave abnormality,156,Yes,1,Flat,No,18,1,2,19.62411136,Low Risk
+41,Male,Atypical angina,110,235,Lower than 120 mg/ml,ST-T wave abnormality,153,No,0,Downsloping,Fixed Defect,32,1,2,92.12425631,High Risk
+63,Female,Atypical angina,140,195,Lower than 120 mg/ml,ST-T wave abnormality,179,No,0,Downsloping,Fixed Defect,20,1,1,98.74770179,High Risk
+57,Male,Typical angina,152,274,Lower than 120 mg/ml,ST-T wave abnormality,88,Yes,1.2,Flat,Reversable Defect,28,1,3,0.700339567,Low Risk
+62,Female,Typical angina,140,394,Lower than 120 mg/ml,Normal,157,No,1.2,Flat,Fixed Defect,26,0,3,39.70949376,Medium Risk
+51,Male,Non-anginal pain,125,245,Greater than 120 mg/ml,Normal,166,No,2.4,Flat,Fixed Defect,23,1,3,62.63379156,Medium Risk
+54,Male,Typical angina,122,286,Lower than 120 mg/ml,Normal,116,Yes,3.2,Flat,Fixed Defect,19,0,2,2.220977073,Low Risk
+54,Male,Typical angina,110,206,Lower than 120 mg/ml,Normal,108,Yes,0,Flat,Fixed Defect,21,1,3,22.83987179,Low Risk
+52,Male,Typical angina,108,233,Greater than 120 mg/ml,ST-T wave abnormality,147,No,0.1,Downsloping,Reversable Defect,19,1,1,34.1340876,Medium Risk
+46,Male,Typical angina,140,311,Lower than 120 mg/ml,ST-T wave abnormality,120,Yes,1.8,Flat,Reversable Defect,31,1,2,1.299218717,Low Risk
+44,Male,Atypical angina,120,263,Lower than 120 mg/ml,ST-T wave abnormality,173,No,0,Downsloping,Reversable Defect,33,1,2,74.45576308,High Risk
+67,Male,Non-anginal pain,152,212,Lower than 120 mg/ml,Normal,150,No,0.8,Flat,Reversable Defect,25,0,3,34.6393736,Medium Risk
+41,Male,Typical angina,110,172,Lower than 120 mg/ml,Normal,158,No,0,Downsloping,Reversable Defect,18,0,3,47.88180831,Medium Risk
+55,Female,Atypical angina,132,342,Lower than 120 mg/ml,ST-T wave abnormality,166,No,1.2,Downsloping,Fixed Defect,18,0,3,90.18659684,High Risk
+51,Female,Non-anginal pain,140,308,Lower than 120 mg/ml,Normal,142,No,1.5,Downsloping,Fixed Defect,22,0,2,81.78283826,High Risk
+56,Female,Typical angina,200,288,Greater than 120 mg/ml,Normal,133,Yes,4,Upsloping,Reversable Defect,28,0,1,0.705559328,Low Risk
+46,Female,Atypical angina,105,204,Lower than 120 mg/ml,ST-T wave abnormality,172,No,0,Downsloping,Fixed Defect,27,1,3,99.03313949,High Risk
+67,Female,Non-anginal pain,115,564,Lower than 120 mg/ml,Normal,160,No,1.6,Flat,Reversable Defect,29,1,2,15.69013766,Low Risk
+55,Male,Typical angina,132,353,Lower than 120 mg/ml,ST-T wave abnormality,132,Yes,1.2,Flat,Reversable Defect,25,0,1,2.402760806,Low Risk
+35,Female,Typical angina,138,183,Lower than 120 mg/ml,ST-T wave abnormality,182,No,1.4,Downsloping,Fixed Defect,21,1,1,93.90552982,High Risk
+59,Male,Typical angina,164,176,Greater than 120 mg/ml,Normal,90,No,1,Flat,Normal,20,1,1,10.31188321,Low Risk
+51,Male,Non-anginal pain,125,245,Greater than 120 mg/ml,Normal,166,No,2.4,Flat,Fixed Defect,23,0,3,65.31404563,Medium Risk
+35,Female,Typical angina,138,183,Lower than 120 mg/ml,ST-T wave abnormality,182,No,1.4,Downsloping,Fixed Defect,18,1,1,93.99766873,High Risk
+52,Male,Typical angina,128,204,Greater than 120 mg/ml,ST-T wave abnormality,156,Yes,1,Flat,No,20,1,2,19.45416853,Low Risk
+43,Male,Typical angina,115,303,Lower than 120 mg/ml,ST-T wave abnormality,181,No,1.2,Flat,Fixed Defect,26,0,1,66.54060633,Medium Risk
+69,Female,Asymptomatic,140,239,Lower than 120 mg/ml,ST-T wave abnormality,151,No,1.8,Downsloping,Fixed Defect,31,0,3,92.59114211,High Risk
+41,Female,Atypical angina,126,306,Lower than 120 mg/ml,ST-T wave abnormality,163,No,0,Downsloping,Fixed Defect,26,0,1,97.63850596,High Risk
+64,Male,Typical angina,128,263,Lower than 120 mg/ml,ST-T wave abnormality,105,Yes,0.2,Flat,Reversable Defect,30,0,1,3.890187227,Low Risk
+42,Female,Typical angina,102,265,Lower than 120 mg/ml,Normal,122,No,0.6,Flat,Fixed Defect,18,0,1,74.72777097,High Risk
+42,Male,Non-anginal pain,120,240,Greater than 120 mg/ml,ST-T wave abnormality,194,No,0.8,Upsloping,Reversable Defect,20,1,1,84.79739759,High Risk
+43,Male,Non-anginal pain,130,315,Lower than 120 mg/ml,ST-T wave abnormality,162,No,1.9,Downsloping,Fixed Defect,33,0,3,67.52684377,Medium Risk
+49,Female,Atypical angina,134,271,Lower than 120 mg/ml,ST-T wave abnormality,162,No,0,Flat,Fixed Defect,22,1,1,97.39651046,High Risk
+62,Female,Typical angina,150,244,Lower than 120 mg/ml,ST-T wave abnormality,154,Yes,1.4,Flat,Fixed Defect,26,0,2,54.72458212,Medium Risk
+47,Male,Typical angina,110,275,Lower than 120 mg/ml,Normal,118,Yes,1,Flat,Fixed Defect,20,0,1,15.03775434,Low Risk
+48,Male,Atypical angina,110,229,Lower than 120 mg/ml,ST-T wave abnormality,168,No,1,Upsloping,Reversable Defect,30,0,3,64.21330001,Medium Risk
+55,Male,Typical angina,140,217,Lower than 120 mg/ml,ST-T wave abnormality,111,Yes,5.6,Upsloping,Reversable Defect,31,0,3,0.126824962,Low Risk
+54,Male,Atypical angina,108,309,Lower than 120 mg/ml,ST-T wave abnormality,156,No,0,Downsloping,Reversable Defect,30,0,1,60.98015145,Medium Risk
+43,Male,Typical angina,115,303,Lower than 120 mg/ml,ST-T wave abnormality,181,No,1.2,Flat,Fixed Defect,30,0,2,63.9067923,Medium Risk
+61,Female,Typical angina,145,307,Lower than 120 mg/ml,Normal,146,Yes,1,Flat,Reversable Defect,24,0,1,12.21051014,Low Risk
+56,Male,Typical angina,125,249,Greater than 120 mg/ml,Normal,144,Yes,1.2,Flat,Fixed Defect,25,0,1,21.04386604,Low Risk
+63,Female,Typical angina,124,197,Lower than 120 mg/ml,ST-T wave abnormality,136,Yes,0,Flat,Fixed Defect,22,0,2,79.69276573,High Risk
+55,Female,Atypical angina,132,342,Lower than 120 mg/ml,ST-T wave abnormality,166,No,1.2,Downsloping,Fixed Defect,23,0,2,90.76813126,High Risk
+67,Male,Typical angina,120,237,Lower than 120 mg/ml,ST-T wave abnormality,71,No,1,Flat,Fixed Defect,29,0,1,9.400730477,Low Risk
+50,Male,Typical angina,144,200,Lower than 120 mg/ml,Normal,126,Yes,0.9,Flat,Reversable Defect,20,0,1,5.18050499,Low Risk
+65,Male,Typical angina,120,177,Lower than 120 mg/ml,ST-T wave abnormality,140,No,0.4,Downsloping,Reversable Defect,22,1,3,22.67483841,Low Risk
+60,Female,Non-anginal pain,120,178,Greater than 120 mg/ml,ST-T wave abnormality,96,No,0,Downsloping,Fixed Defect,27,1,1,93.59323863,High Risk
+62,Male,Atypical angina,120,281,Lower than 120 mg/ml,Normal,103,No,1.4,Flat,Reversable Defect,32,0,2,6.982505788,Low Risk
+62,Male,Atypical angina,120,281,Lower than 120 mg/ml,Normal,103,No,1.4,Flat,Reversable Defect,25,0,2,7.232271437,Low Risk
+45,Male,Typical angina,104,208,Lower than 120 mg/ml,Normal,148,Yes,3,Flat,Fixed Defect,19,0,2,14.73917373,Low Risk
+64,Female,Typical angina,130,303,Lower than 120 mg/ml,ST-T wave abnormality,122,No,2,Flat,Fixed Defect,26,0,2,33.08628255,Medium Risk
+51,Male,Typical angina,140,299,Lower than 120 mg/ml,ST-T wave abnormality,173,Yes,1.6,Downsloping,Reversable Defect,25,1,2,6.519342144,Low Risk
+62,Female,Typical angina,138,294,Greater than 120 mg/ml,ST-T wave abnormality,106,No,1.9,Flat,Fixed Defect,18,0,2,26.1005857,Low Risk
+59,Male,Asymptomatic,178,270,Lower than 120 mg/ml,Normal,145,No,4.2,Upsloping,Reversable Defect,18,1,1,4.099708977,Low Risk
+49,Female,Atypical angina,134,271,Lower than 120 mg/ml,ST-T wave abnormality,162,No,0,Flat,Fixed Defect,30,0,1,97.57557517,High Risk
+61,Male,Typical angina,148,203,Lower than 120 mg/ml,ST-T wave abnormality,161,No,0,Downsloping,Reversable Defect,32,0,3,31.32335053,Medium Risk
+51,Male,Non-anginal pain,100,222,Lower than 120 mg/ml,ST-T wave abnormality,143,Yes,1.2,Flat,Fixed Defect,18,0,3,74.57191763,High Risk
+76,Female,Non-anginal pain,140,197,Lower than 120 mg/ml,Left ventricular hypertrophy,116,No,1.1,Flat,Fixed Defect,23,1,3,76.89870097,High Risk
+62,Female,Typical angina,160,164,Lower than 120 mg/ml,Normal,145,No,6.2,Upsloping,Reversable Defect,26,1,2,1.290422289,Low Risk
+44,Female,Non-anginal pain,118,242,Lower than 120 mg/ml,ST-T wave abnormality,149,No,0.3,Flat,Fixed Defect,33,0,3,97.52803264,High Risk
+53,Female,Non-anginal pain,128,216,Lower than 120 mg/ml,Normal,115,No,0,Downsloping,No,30,0,1,82.17578779,High Risk
+29,Male,Atypical angina,130,204,Lower than 120 mg/ml,Normal,202,No,0,Downsloping,Fixed Defect,30,0,2,97.76745732,High Risk
+51,Male,Typical angina,140,298,Lower than 120 mg/ml,ST-T wave abnormality,122,Yes,4.2,Flat,Reversable Defect,26,0,1,0.330302934,Low Risk
+65,Male,Asymptomatic,138,282,Greater than 120 mg/ml,Normal,174,No,1.4,Flat,Fixed Defect,26,1,2,79.62437155,High Risk
+50,Female,Non-anginal pain,120,219,Lower than 120 mg/ml,ST-T wave abnormality,158,No,1.6,Flat,Fixed Defect,31,0,2,95.95061215,High Risk
+44,Male,Non-anginal pain,140,235,Lower than 120 mg/ml,Normal,180,No,0,Downsloping,Fixed Defect,31,1,3,92.80338054,High Risk
+43,Male,Typical angina,132,247,Greater than 120 mg/ml,Normal,143,Yes,0.1,Flat,Reversable Defect,32,0,1,11.79067412,Low Risk
+45,Male,Atypical angina,128,308,Lower than 120 mg/ml,Normal,170,No,0,Downsloping,Fixed Defect,28,1,3,83.58655066,High Risk
+57,Male,Atypical angina,154,232,Lower than 120 mg/ml,Normal,164,No,0,Downsloping,Fixed Defect,30,0,3,83.15470053,High Risk
+67,Female,Typical angina,106,223,Lower than 120 mg/ml,ST-T wave abnormality,142,No,0.3,Downsloping,Fixed Defect,27,1,2,85.8234323,High Risk
+63,Female,Atypical angina,140,195,Lower than 120 mg/ml,ST-T wave abnormality,179,No,0,Downsloping,Fixed Defect,25,0,3,98.6181317,High Risk
+42,Male,Typical angina,140,226,Lower than 120 mg/ml,ST-T wave abnormality,178,No,0,Downsloping,Fixed Defect,25,0,1,84.9759426,High Risk
+59,Male,Asymptomatic,134,204,Lower than 120 mg/ml,ST-T wave abnormality,162,No,0.8,Downsloping,Fixed Defect,20,1,1,93.71488337,High Risk
+54,Male,Non-anginal pain,150,232,Lower than 120 mg/ml,Normal,165,No,1.6,Downsloping,Reversable Defect,31,1,3,30.55031674,Medium Risk
+65,Female,Non-anginal pain,155,269,Lower than 120 mg/ml,ST-T wave abnormality,148,No,0.8,Downsloping,Fixed Defect,22,0,2,91.62755346,High Risk
+67,Female,Non-anginal pain,152,277,Lower than 120 mg/ml,ST-T wave abnormality,172,No,0,Downsloping,Fixed Defect,34,1,3,96.43007328,High Risk
+57,Male,Atypical angina,124,261,Lower than 120 mg/ml,ST-T wave abnormality,141,No,0.3,Downsloping,Reversable Defect,18,0,1,49.63107306,Medium Risk
+44,Male,Typical angina,110,197,Lower than 120 mg/ml,Normal,177,No,0,Downsloping,Fixed Defect,22,1,3,83.44427977,High Risk
+57,Male,Atypical angina,154,232,Lower than 120 mg/ml,Normal,164,No,0,Downsloping,Fixed Defect,21,0,1,86.22795542,High Risk
+60,Male,Typical angina,130,206,Lower than 120 mg/ml,Normal,132,Yes,2.4,Flat,Reversable Defect,22,0,1,2.099297713,Low Risk
+62,Male,Non-anginal pain,130,231,Lower than 120 mg/ml,ST-T wave abnormality,146,No,1.8,Flat,Reversable Defect,20,0,2,32.62669346,Medium Risk
+47,Male,Non-anginal pain,108,243,Lower than 120 mg/ml,ST-T wave abnormality,152,No,0,Downsloping,Fixed Defect,29,0,1,94.05460567,High Risk
+58,Male,Typical angina,114,318,Lower than 120 mg/ml,Left ventricular hypertrophy,140,No,4.4,Upsloping,Normal,26,0,2,2.624589386,Low Risk
+44,Male,Atypical angina,130,219,Lower than 120 mg/ml,Normal,188,No,0,Downsloping,Fixed Defect,21,0,2,95.50065398,High Risk
+44,Male,Non-anginal pain,120,226,Lower than 120 mg/ml,ST-T wave abnormality,169,No,0,Downsloping,Fixed Defect,25,0,2,96.05913841,High Risk
+68,Male,Non-anginal pain,118,277,Lower than 120 mg/ml,ST-T wave abnormality,151,No,1,Downsloping,Reversable Defect,21,1,3,36.79835361,Medium Risk
+41,Male,Atypical angina,135,203,Lower than 120 mg/ml,ST-T wave abnormality,132,No,0,Flat,Normal,18,0,3,86.53122313,High Risk
+44,Male,Non-anginal pain,120,226,Lower than 120 mg/ml,ST-T wave abnormality,169,No,0,Downsloping,Fixed Defect,32,1,1,95.82710625,High Risk
+61,Male,Typical angina,140,207,Lower than 120 mg/ml,Normal,138,Yes,1.9,Downsloping,Reversable Defect,34,1,1,2.511282187,Low Risk
+58,Male,Non-anginal pain,112,230,Lower than 120 mg/ml,Normal,165,No,2.5,Flat,Reversable Defect,25,1,1,31.1502998,Medium Risk
